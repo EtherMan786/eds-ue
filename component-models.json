@@ -142,6 +142,13 @@
             ]
           }
         ]
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "background-image",
+        "label": "Image",
+        "multi": false
       }
     ]
   },
