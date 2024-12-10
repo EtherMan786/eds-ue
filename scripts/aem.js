@@ -499,7 +499,7 @@ function decorateSections(main) {
             .map((style) => toClassName(style.trim()));
           styles.forEach((style) => section.classList.add(style));
         } else if (key === 'background-image') {
-          section.style.backgroundImage = 'url($meta[key])';
+          section.style.backgroundImage = `url(${meta[key]})`;
         } else {
           section.dataset[toCamelCase(key)] = meta[key];
         }
