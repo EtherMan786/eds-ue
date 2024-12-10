@@ -106,6 +106,40 @@
           {
             "name": "Highlight",
             "value": "highlight"
+          },
+          {
+            "name": "Background Style",
+            "children": [
+              {
+                "name": "White",
+                "value": "bg-white"
+              },
+              {
+                "name": "Black",
+                "value": "bg-black"
+              },
+              {
+                "name": "Grey",
+                "value": "bg-grey"
+              }
+            ]
+          },
+          {
+            "name": "Text Style",
+            "children": [
+              {
+                "name": "Left",
+                "value": "text-left"
+              },
+              {
+                "name": "center",
+                "value": "text-center"
+              },
+              {
+                "name": "right",
+                "value": "text-right"
+              }
+            ]
           }
         ]
       }
