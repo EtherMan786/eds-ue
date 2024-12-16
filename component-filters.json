@@ -17,7 +17,8 @@
       "columns",
       "fragment",
       "quote",
-      "carousel"
+      "carousel",
+      "accordion"
     ]
   },
   {
@@ -45,6 +46,13 @@
     "id": "carousel",
     "components": [
       "carousel-item"
+    ]
+  }
+  ,
+  {
+    "id": "accordion",
+    "components": [
+      "accordion-item"
     ]
   }
 ]
