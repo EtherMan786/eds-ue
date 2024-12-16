@@ -18,7 +18,7 @@
       "fragment",
       "quote",
       "carousel",
-      "accordion-container"
+      "accordion"
     ]
   },
   {
@@ -49,9 +49,9 @@
     ]
   },
   {
-    "id": "accordion-container",
+    "id": "accordion",
     "components": [
-      "accordion"
+      "accordion-item"
     ]
   }
 ]
