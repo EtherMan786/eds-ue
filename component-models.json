@@ -277,5 +277,24 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "accordion",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "title",
+        "value": "",
+        "label": "Accordion Title",
+        "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "name": "desc",
+        "value": "",
+        "label": "Accordion Description",
+        "valueType": "string"
+      }
+    ]
   }
 ]
