@@ -292,7 +292,7 @@
         "component": "text",
         "name": "desc",
         "value": "",
-        "label": "Description",
+        "label": "Accordion Description",
         "valueType": "string"
       }
     ]
