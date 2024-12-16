@@ -282,14 +282,14 @@
     "id": "accordion",
     "fields": [
       {
-        "component": "richtext",
+        "component": "text",
         "name": "title",
         "value": "",
         "label": "Accordion Title",
         "valueType": "string"
       },
       {
-        "component": "richtext",
+        "component": "text",
         "name": "desc",
         "value": "",
         "label": "Accordion Description",
