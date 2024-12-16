@@ -277,24 +277,5 @@
         "valueType": "string"
       }
     ]
-  },
-  {
-    "id": "accordion-item",
-    "fields": [
-      {
-        "component": "richtext",
-        "name": "title",
-        "value": "",
-        "label": "Title",
-        "valueType": "string"
-      },
-      {
-        "component": "richtext",
-        "name": "desc",
-        "value": "",
-        "label": "Accordion Description",
-        "valueType": "string"
-      }
-    ]
   }
 ]
