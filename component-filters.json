@@ -51,7 +51,8 @@
   {
     "id": "accordion-container",
     "components": [
-      "accordion"
+      "accordion",
+      "carousel-item"
     ]
   }
 ]
