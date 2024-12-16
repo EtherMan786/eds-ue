@@ -285,14 +285,14 @@
         "component": "text",
         "name": "title",
         "value": "",
-        "label": "Accordion Title",
+        "label": "Title",
         "valueType": "string"
       },
       {
         "component": "text",
         "name": "desc",
         "value": "",
-        "label": "Accordion Description",
+        "label": "Description",
         "valueType": "string"
       }
     ]
