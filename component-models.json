@@ -279,17 +279,17 @@
     ]
   },
   {
-    "id": "accordion",
+    "id": "accordion-item",
     "fields": [
       {
-        "component": "text",
+        "component": "richtext",
         "name": "title",
         "value": "",
         "label": "Title",
         "valueType": "string"
       },
       {
-        "component": "text",
+        "component": "richtext",
         "name": "desc",
         "value": "",
         "label": "Accordion Description",
